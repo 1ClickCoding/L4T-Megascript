@@ -36,7 +36,7 @@ fn="Citra";;d="3DS emulator";;sn="citra.sh";;f="games_and_emulators"
 
 fn="DuckStation";;d="DuckStation is a PS1 Emulator aiming for the best accuracy and game support.";;sn="duckstation.sh";;f="games_and_emulators"
 
-fn="DobieStation";;d="A dog-themed PS2 emulator.";;sn="dobiestation.sh";;f="games_and_emulators"
+# fn="DobieStation";;d="A dog-themed PS2 emulator.";;sn="dobiestation.sh";;f="games_and_emulators"
 
 fn="MelonDS";;d="DS emulator which aims to provide fast and accurate Nintendo DS emulation";;sn="melonDS.sh";;f="games_and_emulators"
 
